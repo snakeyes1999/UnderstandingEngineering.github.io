@@ -1,0 +1,17 @@
+body {
+background-image: url(blur.jpg);
+background-repeat: no-repeat;
+}
+.para1 {
+	font-family:  'Noto Sans JP', sans-serif;
+	font-size: 30px;
+	
+}
+.ques {
+	font-family: 'Noto Sans JP', sans-serif;
+	font-size: 30px;
+}
+.youtube {
+position: absolute;
+left: 350px;
+}
